@@ -7,7 +7,7 @@
 
 - 🎓 Graduated in **Physics** (Universidad de Zaragoza) and specializing in **Data Science** (UOC).
 - ⚛️ Currently working as a technical professional in **quantum technologies** at NASERTIC.
-- 💻 Passionate about the bridge between quantum computing and machine learning: diving deep into **Quantum Machine learning**
+- 💻 Passionate about the bridge between quantum computing and machine learning: diving deep into **Quantum Machine learning**.
 ## 🛠️ Tech Stack & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
