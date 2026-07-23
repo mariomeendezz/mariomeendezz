@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Sin título.png" width="100%" alt="Banner">
+  <img src="banner.png" width="100%" alt="Banner">
 </p>
 
 # Hey, I'm Mario Méndez! 👋
